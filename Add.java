@@ -1,7 +1,7 @@
 import java.util.*;
 public class Add {
     public static void main(String[] args) {
-        Scanner Sc=new Scanner(System.in);
+        Scanner sc=new Scanner(System.in);
 		int num,num1=0,dig,count=0;
 		System.out.println("Enter a 4 digit number");
 		num=sc.nextInt();
